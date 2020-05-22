@@ -1,4 +1,4 @@
-
+## Matt Pallini - MLB Player Comparison
 
 library(baseballr)
 
