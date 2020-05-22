@@ -1,8 +1,0 @@
-## Clear workspace
-
-rm(list=ls())
-
-## load libraries
-
-library(dplyr)
-library(jsonlite)
